@@ -1,0 +1,25 @@
+Goal - 
+
+Create a program that is quick, easy to filter orders for and to search. Enter in the data, have a table view of orders to look at and 
+
+
+Date entered - defaults to current date (when file is completed and ready to printed for cutting)
+Date cut - defaults to current 
+
+Order Status Field
+	Open (order is being worked)
+	File Done (auto fill 'date entered' with current date)
+	Proof Sent
+	Proof Approved (auto fill date approved with current date)
+	Cut (auto fill date cut to current date)
+
+Default stencil cut to no
+	
+
+Quick Search Tab
+	results:
+		First Name
+		Last Name
+		Date Cut
+
+user searches for 'new' but orders from multiple columns 
